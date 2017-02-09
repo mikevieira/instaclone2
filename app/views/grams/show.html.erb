@@ -1,5 +1,6 @@
 <h1>Show these grams</h1>
 
-<%= @grams.each do |grams| %>
-  <h3><%= grams.message %></h3>
-  <% end %>
+
+  <h3><%= @gram.message %></h3>
+  <%= image_tag @gram.picture %>
+  
