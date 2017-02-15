@@ -70,3 +70,67 @@ top-nav .add {
   font-size: 18px;
   margin: 20px;
 }
+
+/* New Gram */
+
+.card.form {
+  padding: 20px;
+}
+
+label {
+  font-size: 18px;
+}
+
+input {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.my-btn {
+  background-color: #125688;
+  width: 100%;
+  border: none;
+  font-size: 24px;
+  color: white;
+  margin-top: 10px;
+}
+
+/*Sign in */
+
+.input.boolean {
+  margin-left: 18px;
+  margin-top: 5px;
+}
+
+.input.boolean label {
+  margin-top: 5px;
+  line-height: 44px;
+}
+
+/*index styling*/
+
+.gram-actions a{
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 20px;
+}
+
+/*index comment styling*/
+
+.comments {
+  padding:20px;
+}
+
+
+.comment {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.comment_handle {
+  color: #125688;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+
